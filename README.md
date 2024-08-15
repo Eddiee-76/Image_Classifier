@@ -35,7 +35,7 @@ Classifying the images:
 
 ![alt text](./output/dog_prediction1.PNG?raw=true "Dog prediction")
 
-![alt text](./output/dog_prediction2.PNG?raw=true "Dog prediction")
+
 
 
 
